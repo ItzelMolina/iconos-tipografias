@@ -1,0 +1,38 @@
+header {
+  background-color:
+  height: 70px;
+  width:  100%;
+}
+
+li {
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+  padding: 20px 30px;
+  width:  180px;
+  height: 400px;
+}
+
+li:hover {
+  background-color: orange;
+  color: white;
+}
+
+#first_item {
+  font-family: 'Lobster', cursive;
+}
+
+#second_item {
+  font-family: 'Anton', sans-serif;
+}
+
+#third_item {
+  font-family: 'Amarante', cursive;
+}
+
+#fourth_item {
+  font-family: 'Croissant One', cursive;
+}
+#fifth_item {
+  font-family: 'Cormorant Unicase', serif;
+}
